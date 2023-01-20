@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "src/model.ts", "src/model.ts", "mocks", "src/components/meta-form/fields/biz/.tsx"  ]
 }
